@@ -1,1 +1,1 @@
-# OpenMax2_EE2
+# OpenMax2_EE
